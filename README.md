@@ -6,7 +6,7 @@ You can modify the script to track RMSD, center of mass to center of mass distan
 
 ss_track.py creates a secondary structure count timeseries by phenotype, secondary structure population timeseries by type, and histograms.
 
-ss_track_comprehensive.py allows you to do the same as ss_track.py, but you can define a specific region.
+ss_track_region.py allows you to do the same as ss_track.py, but you can define a specific region.
 
 rama_track.py allows you to track phi and psi angles of defined residues.
 
